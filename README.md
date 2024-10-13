@@ -1,4 +1,4 @@
-# Customer_analytics_RFM
+# Customer_analytics_RFM and Customer Lifetime Value models
 
 / Repository with  different customer analytics analysis in Python
 / Customer Lifetime Value calculation
